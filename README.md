@@ -11,3 +11,7 @@ Repository containing exercises prepared for Python course
 2.1 - Files count <br /> 
 2.2 - Directory’s structure <br />
 2.3 - Extensions converting <br />
+
+## Task 3 - Text
+3.1 - Words removal <br /> 
+3.2 - Words replacement <br />
