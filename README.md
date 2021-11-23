@@ -15,3 +15,11 @@ Repository containing exercises prepared for Python course
 ## Task 3 - Text
 3.1 - Words removal <br /> 
 3.2 - Words replacement <br />
+
+## Task 4 - Calculations And Algorithms
+4.1 - Quadratic equation <br /> 
+4.2 - Sorting <br />
+4.3 - The scalar product <br /> 
+4.4 - The sum of matrix <br /> 
+4.5 - Matrix multiplication <br /> 
+4.6 - Determinant of the matrix <br /> 
