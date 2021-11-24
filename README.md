@@ -23,3 +23,8 @@ Repository containing exercises prepared for Python course
 4.4 - The sum of matrix <br /> 
 4.5 - Matrix multiplication <br /> 
 4.6 - Determinant of the matrix <br /> 
+
+## Task 5 - Classes
+5.1 - Complex numbers <br /> 
+5.2 - Calculator <br />
+
