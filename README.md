@@ -7,7 +7,7 @@ Repository containing exercises prepared for Python course
 1.2 - Inputting data <br />
 1.3 - Data saving <br />
 
-## Task 2 - Working with files
+## Task 2 - Working With Files
 2.1 - Files count <br /> 
 2.2 - Directory’s structure <br />
 2.3 - Extensions converting <br />
@@ -31,3 +31,8 @@ Repository containing exercises prepared for Python course
 ## Task 6 - Working With Data
 6.1 - XML <br /> 
 6.2 - JSON <br />
+
+## Task 7 - Parallelization Of Calculations
+7.1 - Histogram <br /> 
+7.2 - Five philosophers <br />
+
