@@ -28,3 +28,6 @@ Repository containing exercises prepared for Python course
 5.1 - Complex numbers <br /> 
 5.2 - Calculator <br />
 
+## Task 6 - Working With Data
+6.1 - XML <br /> 
+6.2 - JSON <br />
