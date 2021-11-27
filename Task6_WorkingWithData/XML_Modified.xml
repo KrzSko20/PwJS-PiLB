@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><person>
+	<lang lng="English"/>
+	<first_name>Jerzy</first_name>
+	<last_name>Kiler</last_name>
+	<age>59</age>
+	<job>actor</job>
+	<date_of_birth val="13.06.1962"/></person>
