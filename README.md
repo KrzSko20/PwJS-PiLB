@@ -1,17 +1,16 @@
 # PwJS-PiLB
 Repository containing exercises prepared for Python course
 
-
 ### Necessary Libraries
-- cycler == 0.11.0
-- kiwisolver == 1.3.2
-- matplotlib == 3.5.0
+- cycler = 0.11.0
+- kiwisolver = 1.3.2
+- matplotlib = 3.5.0
 - numpy == 1.21.4
-- opencv-python == 4.5.4.60
-- Pillow == 8.4.0
-- pyparsing == 3.0.6
-- python-dateutil == 2.8.2
-- six == 1.16.0
+- opencv-python = 4.5.4.60
+- Pillow = 8.4.0
+- pyparsing = 3.0.6
+- python-dateutil = 2.8.2
+- six = 1.16.0
 
 
 ## Task 1 - Input/Output
@@ -47,6 +46,3 @@ Repository containing exercises prepared for Python course
 ## Task 7 - Parallelization Of Calculations
 7.1 - Histogram <br /> 
 7.2 - Five philosophers <br />
-
-
-
